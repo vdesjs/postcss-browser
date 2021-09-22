@@ -1,5 +1,5 @@
 {
-  "name": "postcss-browser",
+  "name": "postcss-browser8",
   "version": "8.3.6",
   "description": "Tool for transforming styles with JS plugins",
   "engines": {
@@ -24,6 +24,9 @@
   },
   "author": "china-bin",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "homepage": "https://github.com/vdesjs/postcss-browser",
   "repository": "https://github.com/vdesjs/postcss-browser",
   "bugs": {

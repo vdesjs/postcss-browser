@@ -4,10 +4,10 @@ Bundle the postcss to the esmodule and translate node to the browser
 
 ## use
 
-yarn add -D postcss-browser
+yarn add -D postcss-browser8
 
 ```
-import postcss from "../../dist/postcss"
+import postcss from "postcss-browser8"
 
 const lazyResult = postcss().process(".title {color: red}")
 
